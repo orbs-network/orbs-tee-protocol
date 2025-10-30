@@ -1,6 +1,6 @@
 [package]
 name = "orbs-tee-protocol"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2021"
 description = "ORBS TEE Protocol - Shared message types for host-enclave communication"
 license = "MIT"
