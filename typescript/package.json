@@ -1,5 +1,5 @@
 {
-  "name": "@orbs/tee-protocol",
+  "name": "@orbs-network/tee-protocol",
   "version": "0.1.0",
   "description": "ORBS TEE Protocol - Shared message types",
   "main": "dist/index.js",

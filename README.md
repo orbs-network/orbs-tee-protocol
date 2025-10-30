@@ -16,7 +16,7 @@ orbs-tee-protocol = "0.1"
 
 ### TypeScript
 ```bash
-npm install @orbs/tee-protocol
+npm install @orbs-network/tee-protocol
 ```
 
 See the [main design document](computer:///home/claude/orbs-tee-framework-design.md) for complete code and examples.
