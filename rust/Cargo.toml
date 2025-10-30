@@ -4,6 +4,10 @@ version = "0.1.0"
 edition = "2021"
 description = "ORBS TEE Protocol - Shared message types for host-enclave communication"
 license = "MIT"
+repository = "https://github.com/orbs-network/orbs-tee-protocol"
+homepage = "https://github.com/orbs-network/orbs-tee-protocol"
+keywords = ["tee", "trusted-execution-environment", "enclave", "protocol"]
+categories = ["cryptography"]
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }

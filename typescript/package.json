@@ -4,7 +4,26 @@
   "description": "ORBS TEE Protocol - Shared message types",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "scripts": { "build": "tsc" },
+  "files": [
+    "dist/**/*",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
   "license": "MIT",
-  "devDependencies": { "typescript": "^5.0.0" }
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orbs-network/orbs-tee-protocol.git",
+    "directory": "typescript"
+  },
+  "keywords": [
+    "tee",
+    "trusted-execution-environment",
+    "enclave",
+    "protocol"
+  ]
 }
